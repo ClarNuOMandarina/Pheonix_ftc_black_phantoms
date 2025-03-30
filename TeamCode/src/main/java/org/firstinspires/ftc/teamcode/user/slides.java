@@ -50,7 +50,7 @@ hanging.setPosition(not_hang);
         // functie generala pt uzul culisantelor
         left_slide.setTargetPosition(x);
         right_slide.setTargetPosition(x);
-        left_slide.setPower(1);
+        left_slide.setPower(1   );
         right_slide.setPower(1);
         left_slide.setMode(DcMotor.RunMode.RUN_TO_POSITION);
         right_slide.setMode(DcMotor.RunMode.RUN_TO_POSITION);
